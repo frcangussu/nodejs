@@ -2,8 +2,8 @@
 ## testes e anotações com NodeJs
 
 ### http-server
-```sh
 #### Instalação
+```sh
   - npm install -g http-server 
 ```
 #### https
