@@ -3,8 +3,8 @@
 
 ### http-server
 #### Instalação
-```sh
-  - npm install -g http-server 
+```sh 
+npm install -g http-server 
 ```
 #### https
   -  http-server -a localhost -p 8000
